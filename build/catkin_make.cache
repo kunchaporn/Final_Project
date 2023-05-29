@@ -1,0 +1,2 @@
+kunchap
+-DCATKIN_DEVEL_PREFIX=/home/kunchap/git_tutorial/git_tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/kunchap/git_tutorial/git_tutorial/install -G Unix Makefiles

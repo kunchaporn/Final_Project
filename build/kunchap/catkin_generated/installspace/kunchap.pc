@@ -1,0 +1,8 @@
+prefix=/home/kunchap/git_tutorial/git_tutorial/install
+
+Name: kunchap
+Description: Description of kunchap
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
